@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.todo-section {
+  width: 30%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.todo-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.todo-section li {
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.todo-section li span {
+  flex-grow: 1;
+  cursor: pointer;
+}
+
+.todo-section li button {
+  margin-left: 10px;
+}
