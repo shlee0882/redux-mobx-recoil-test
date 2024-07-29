@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redux-mobx-recoil-test/static/css/main.2927f4b0.css",
+    "main.js": "/redux-mobx-recoil-test/static/js/main.5e582107.js",
+    "static/js/453.07f753d5.chunk.js": "/redux-mobx-recoil-test/static/js/453.07f753d5.chunk.js",
+    "index.html": "/redux-mobx-recoil-test/index.html",
+    "main.2927f4b0.css.map": "/redux-mobx-recoil-test/static/css/main.2927f4b0.css.map",
+    "main.5e582107.js.map": "/redux-mobx-recoil-test/static/js/main.5e582107.js.map",
+    "453.07f753d5.chunk.js.map": "/redux-mobx-recoil-test/static/js/453.07f753d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2927f4b0.css",
+    "static/js/main.5e582107.js"
+  ]
+}
